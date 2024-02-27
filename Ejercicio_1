@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Webpage</title>
+</head>
+<body>
+    <h1>Welcome to My Webpage</h1>
+    
+    <!-- Image 1 -->
+    <img src="https://images.ecestaticos.com/1klfjmk65opTVmToiwBJAUQ3dyM=/0x13:1494x854/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdae%2F7b7%2F861%2Fdae7b7861c3285b03b9f6555878c8c53.jpg" alt="Image 1" width="300">
+    
+    <!-- Image 2 -->
+    <img src="https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/12/portada.jpg" alt="Image 2" width="200">
+    
+    <!-- Image 3 -->
+    <img src="https://www.disfrutaviena.com/f/austria/viena/guia/tiempo-m.jpg" alt="Image 3" width="300">
+
+    <p>Explore More:<p>
+    <!-- Links to Web Pages -->
+    <ul>
+        <li><a href="https://www.booking.com/index.es.html">Booking</a></li>
+        <li><a href="https://www.trivago.com/es-US?rl=es-US&first_visit=1">Trivago</a></li>
+        <li><a href="https://www.kayak.es/">Kayak</a></li>
+    </ul>
+
+</body>
+</html>
